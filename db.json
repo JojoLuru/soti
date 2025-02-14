@@ -1,5 +1,5 @@
 {
-"devices": [
+  "devices": [
   {
     "$type": "DeviceAndroidForWork",
     "AndroidForWork": {
@@ -190,6 +190,6 @@
     "Path": "\\\\FR\\01.Pays\\DE\\0500 - J & R KG\\0250 - Gex",
     "Platform": "AndroidPlus",
     "ServerName": "SOTIDPSNFRZ02"
-  }
+  },
 ]
 }
