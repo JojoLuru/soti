@@ -27,15 +27,6 @@
     "AndroidApiLevel": 33,
     "AndroidDeviceAdmin": true,
     "AndroidRcLibraryVersion": "1.27.0.0",
-    "Antivirus": {
-      "$type": "Antivirus",
-      "LastEmptyQuarantine": -1,
-      "LastVirusScan": -1,
-      "AntivirusVersion": null,
-      "InfectedFilesCount": null,
-      "LastScanDuration": null,
-      "QuarantinedFilesCount": null
-    },
     "AsuLevel": null,
     "Memory": {
       "$type": "Memory",
