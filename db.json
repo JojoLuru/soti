@@ -1,3 +1,4 @@
+{
 "devices": [
   {
     "$type": "DeviceAndroidForWork",
@@ -191,3 +192,4 @@
     "ServerName": "SOTIDPSNFRZ02"
   }
 ]
+}
