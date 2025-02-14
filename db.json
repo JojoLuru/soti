@@ -1,4 +1,4 @@
-[
+"devices": [
   {
     "$type": "DeviceAndroidForWork",
     "AndroidForWork": {
