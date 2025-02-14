@@ -1,4 +1,4 @@
-[
+{"Devices":[
   {
     "$type": "DeviceAndroidForWork",
     "BuildVersion": null,
@@ -214,3 +214,4 @@
     "ServerName": "SOTIDTSRRZ22"
   }
 ]
+}
